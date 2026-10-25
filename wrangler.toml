@@ -1,0 +1,6 @@
+name = "team-fud-website"
+# Set this to today's date
+compatibility_date = "2026-10-24"
+
+[assets]
+directory = "./build/"
