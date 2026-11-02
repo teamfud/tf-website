@@ -58,6 +58,15 @@
 			</h3>
 			<p class="mt-2 text-xl">firewall rule templating system for competitions</p>
 
+			<h2 class="mt-8 font-display text-4xl">deployments</h2>
+            <p class="mt-2 text-xl">
+            	these tools have all been deployed and battle tested at
+            	<a class="text-accent underline" href="https://irsec.club">irsec 2026</a>.
+            	used them at another competition?
+            	<a class="text-accent underline" href="https://github.com/teamfud/tf-website/issues/new">let us know</a>
+            	and we'll feature it here!
+            </p>
+
 			<p class="mt-32 text-muted">made with fear, uncertainty and doubt by team fud :)</p>
 		</div>
 	</div>
